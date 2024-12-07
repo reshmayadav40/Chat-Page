@@ -1,0 +1,35 @@
+body{
+    margin:20px;
+}
+
+.bg{
+    background-image: url("https://i.pinimg.com/736x/7d/70/b9/7d70b9947f39dbcaad3e22d8679047f9.jpg");
+    height: 80vh;
+    width: 350px ;
+}
+.heading{
+    color: white;
+    font-style: roboto;
+    text-align: center;
+    background-color: #54075e;
+    padding: 10px;
+    
+    
+}
+.send{
+    background-color: rgb(94, 94, 212);
+    color: white;
+    padding: 10px;
+    text-align: right;
+    border-radius: 10px;
+    margin: 12px;
+
+}
+.received{  
+    background-color: rgb(116, 39, 122);
+    color: white;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    margin: 12px;
+}
